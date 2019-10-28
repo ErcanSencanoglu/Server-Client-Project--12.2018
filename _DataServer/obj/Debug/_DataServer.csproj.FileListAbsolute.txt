@@ -1,0 +1,9 @@
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\bin\Debug\_DataServer.exe.config
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\bin\Debug\_DataServer.exe
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\bin\Debug\_DataServer.pdb
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\obj\Debug\_DataServer.csprojResolveAssemblyReference.cache
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\obj\Debug\_DataServer.Form1.resources
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\obj\Debug\_DataServer.Properties.Resources.resources
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\obj\Debug\_DataServer.csproj.GenerateResource.Cache
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\obj\Debug\_DataServer.exe
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\_DataServer\obj\Debug\_DataServer.pdb

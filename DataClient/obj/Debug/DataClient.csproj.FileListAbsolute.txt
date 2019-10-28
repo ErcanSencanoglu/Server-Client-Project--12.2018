@@ -1,0 +1,18 @@
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\bin\Debug\DataClient.exe.config
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\bin\Debug\DataClient.exe
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\bin\Debug\DataClient.pdb
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\obj\Debug\DataClient.Form1.resources
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\obj\Debug\DataClient.Properties.Resources.resources
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\obj\Debug\DataClient.csproj.GenerateResource.Cache
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\obj\Debug\DataClient.exe
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\obj\Debug\DataClient.pdb
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_DataServer\DataClient\obj\Debug\DataClient.csprojResolveAssemblyReference.cache
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\bin\Debug\DataClient.exe.config
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\obj\Debug\DataClient.exe
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\obj\Debug\DataClient.pdb
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\bin\Debug\DataClient.exe
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\bin\Debug\DataClient.pdb
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\obj\Debug\DataClient.csprojResolveAssemblyReference.cache
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\obj\Debug\DataClient.Form1.resources
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\obj\Debug\DataClient.Properties.Resources.resources
+C:\Users\Ercan\Desktop\github\_DataServer\DataClient\obj\Debug\DataClient.csproj.GenerateResource.Cache
